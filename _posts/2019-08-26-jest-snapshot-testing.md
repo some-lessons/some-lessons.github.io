@@ -18,7 +18,7 @@ Know how to find the command line commands required to execute a test suite cont
 
 Self-driven tutorial, with Q&A.
 
-You should work through the “Instructions” yourself, and if you get stuck on any instructions, I’m here to help.
+You should work through the instructions below yourself, and if you get stuck on any instructions, I’m here to help.
 
 Once you’ve done all the instructions, let’s talk through the learning goals listed above and make sure you feel good about them.
 
