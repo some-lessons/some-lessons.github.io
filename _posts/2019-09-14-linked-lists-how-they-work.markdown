@@ -32,3 +32,5 @@ Bonus learning goals:
 1. Be able to state one advantage of linked lists over arrays in terms of performance (runtime or memory).
 
 2. Be able to state one advantage of arrays over linked lists in terms of performance (runtime or memory).
+
+3. Be able to explain how you would write a function that prints just the 3rd element of a linked list (assuming it has a third element).
