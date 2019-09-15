@@ -21,7 +21,7 @@ Recommendation:
 
 ```
 var l = makeExampleList()
-addTomiddle(l)
+addToMiddle(l)
 iterateAndPrint(l)
 ```
 
