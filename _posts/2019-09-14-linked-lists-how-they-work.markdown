@@ -11,7 +11,7 @@ Learning goals:
 
 Recommendation:
 
-1. Read this article: https://www.interviewcake.com/concept/javascript/linked-list
+1. Read this article: <a href="https://www.interviewcake.com/concept/javascript/linked-list">https://www.interviewcake.com/concept/javascript/linked-list</a>
 
 2. Open your code editor, and **type in** the code in this link: <a href="/assets/2019-09-14-linked-lists-how-they-work/sample.js">sample.js</a>
 
