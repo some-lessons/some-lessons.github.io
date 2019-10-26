@@ -23,4 +23,8 @@ Recommendation:
 
 4. Discuss the learning goals with the instructor.
 
-Bonus resource: https://gist.github.com/paulirish/5d52fb081b3570c81e3a
+Bonus resources:
+
+- http://wilsonpage.co.uk/preventing-layout-thrashing/
+
+- https://gist.github.com/paulirish/5d52fb081b3570c81e3a
