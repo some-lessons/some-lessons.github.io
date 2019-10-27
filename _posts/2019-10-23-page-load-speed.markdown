@@ -5,7 +5,7 @@ title:  "Web app speed - Navigating a React app in the Chrome profiler and evalu
 
 Learning goals:
 
-1. Be able to state the meaning of at least two web page performance metrics that Chrome can evaluate.
+1. Be able to state the difference between First Contentful Paint and Time To Interactive, as measured by Chrome.
 
 2. Be able to state at least one server-side technique that can make a page load faster.
 
