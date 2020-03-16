@@ -14,3 +14,4 @@ Upcoming topics (maybe):
 - Taking complicated sounding problem and turning it into one of these things.
 - Map reduce
 - Maybe GraphQL
+- Gang-of-Four design patterns that are now super mainstream
